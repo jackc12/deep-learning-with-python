@@ -10,4 +10,3 @@ python3 -m pip install tensorflow
 
 jupyter lab
 ```
-```
